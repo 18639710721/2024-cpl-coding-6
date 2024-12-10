@@ -1,0 +1,5 @@
+add_executable(game-of-life game-of-life.c)
+add_executable(game-of-life-teacher-version game-of-life-teacher-version.c)
+add_executable(merge merge.c)
+add_executable(insertion insertion.c)
+add_executable(game-of-life-opt-version game-of-life-opt-version.c)

@@ -1,0 +1,8 @@
+add_executable(min min.c)
+add_executable(min-of-three min-of-three.c)
+add_executable(leap-year-if-flowchat leap-year-if-flowchat.c)
+add_executable(leap-yer-if-inverse-version leap-yer-if-inverse-version.c)
+add_executable(leap-year-if-cascade-version leap-year-if-cascade-version.c)
+add_executable(leap-year-if-ultimate-version leap-year-if-ultimate-version.c)
+add_executable(min-array min-array.c)
+add_executable(min-array-input min-array-input.c)
