@@ -61,6 +61,7 @@ int GetMinIndex(const int *arr, int begin, int end) {
             min_index = i;
         }
     }
+
     printf("%d\n", min_index);
     return min_index;
 }
