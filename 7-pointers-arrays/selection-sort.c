@@ -3,9 +3,6 @@
 //
 #include <stdio.h>
 #include <stdlib.h>
-
-
-
 /*
  * 申请内存的没有free掉会造成内存泄露
  */
